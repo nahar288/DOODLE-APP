@@ -1,1 +1,1 @@
-project-DOODLE-APP
+project name-Doodle app
